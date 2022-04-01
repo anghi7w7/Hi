@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;1,700&family=Roboto+Slab:wght@100;300;700&display=swap');
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 30;
+    padding: 30;
+}
+
+.nav{
+    padding-top: 5px;
+    position: fixed;
+    height: 5%;
+    overflow: hidden;
+    top: 0;
+    display: flex;
+    align-items: center;
+    background: #f1f1f1e6;
+}
+
+.title{
+    text-align: center;
+    color: white;
+}
+
+.paragraph{
+    text-align: left;
+    color: white;
+}
+
+.title2{
+    color: antiquewhite;
+    text-align: center;
+}
+
+.table{
+    width: 100%;
+    color: rgb(238, 227, 211);
+}
+
+.paragraph1{
+    color: white;
+}
